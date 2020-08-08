@@ -198,7 +198,10 @@ main{
     .Invitados{
         height: 1630px ;
         .estelares{
-            margin: 0px 11px;      
+            margin: 0px 11px;   
+            .Desktop{
+                display: none;
+            }   
             h4{
                 font-family: 'IBM Plex Sans', sans-serif;
                 font-size: 36px;

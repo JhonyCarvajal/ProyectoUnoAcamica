@@ -155,6 +155,8 @@ main .Invitados {
   height: 1630px; }
   main .Invitados .estelares {
     margin: 0px 11px; }
+    main .Invitados .estelares .Desktop {
+      display: none; }
     main .Invitados .estelares h4 {
       font-family: 'IBM Plex Sans', sans-serif;
       font-size: 36px;
